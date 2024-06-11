@@ -1,7 +1,7 @@
 <template>
     <div class="modal-box">
         <h3 class="font-bold text-lg">Nuevo Jugador!</h3>
-        <p class="py-4">Ingrese los datos del nuevo jugador</p>
+        <p class="py-4">Ingrese los datos para el nuevo jugador</p>
         <label class="input input-bordered flex items-center gap-2">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor" class="w-4 h-4 opacity-70">
                 <path
