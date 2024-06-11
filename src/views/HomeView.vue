@@ -6,6 +6,6 @@ import bgPattern from '@/assets/polka-dots.svg'
   <main class="container w-screen h-screen grid content-center bg-fixed text-center" :style="{backgroundImage: `url(${bgPattern})`}">
     <h1 class="text-5xl font-bold">Telefunken</h1>
     <p class="py-6">Tablero de Puntajes</p>
-    <RouterLink to="/new-game" class="btn btn-primary w-fit mx-auto">Iniciar Juego Nuevo</RouterLink>
+    <RouterLink to="/game" class="btn btn-primary w-fit mx-auto">Jugar</RouterLink>
   </main>
 </template>
